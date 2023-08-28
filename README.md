@@ -1,4 +1,4 @@
-### React/Typescript разработчик 👋
+### Начинающий React/Typescript разработчик 👋
 
 
 :memo: **Frontend skills**:
