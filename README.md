@@ -1,16 +1,18 @@
-### Hi there 👋
+### React/Typescript разработчик 👋
 
-<!--
-**svenmaycry/svenmaycry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:memo: **Frontend skills**:
+- JavaScript/TypeScript
+- ReactJs
+- ReduxToolkit
+- Webpack
+- HTML
+- Css/Scss
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 **Backend skills**: 
+- NodeJs
+
+:book: **Contacts**: 
+- telegram: @Hell_Rush
+- vk: https://vk.com/xsven
+- mail: svenmaycry@yandex.ru
