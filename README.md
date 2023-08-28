@@ -2,12 +2,12 @@
 
 
 :memo: **Frontend skills**:
-- JavaScript/TypeScript
+- JavaScript / TypeScript
 - ReactJs
 - ReduxToolkit
 - Webpack
 - HTML
-- Css/Scss
+- Css / Scss
 
 👨‍💻 **Backend skills**: 
 - NodeJs
