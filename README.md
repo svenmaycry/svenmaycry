@@ -1,4 +1,4 @@
-### Начинающий React/Typescript разработчик 👋
+### Веб-программист 👋
 
 
 :memo: **Frontend skills**:
@@ -6,6 +6,7 @@
 - ReactJs
 - ReduxToolkit
 - Webpack
+- Gulp
 - HTML
 - Css / Scss
 
