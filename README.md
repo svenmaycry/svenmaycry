@@ -12,5 +12,5 @@
 
 :book: **Contacts**: 
 - telegram: @Hell_Rush
-- vk: https://vk.com/xsven
+- vk: https://vk.com/hell__rush
 - mail: svenmaycry@yandex.ru
