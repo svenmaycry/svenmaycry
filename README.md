@@ -1,6 +1,3 @@
-### Веб-программист 👋
-
-
 :memo: **Frontend skills**:
 - JavaScript / TypeScript
 - ReactJs
